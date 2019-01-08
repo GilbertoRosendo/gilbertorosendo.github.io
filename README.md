@@ -1,1 +1,1 @@
-[About](https://www.google.com "Currículo Online")
+[About](https://gilbertorosendo.github.io/ "Currículo Online")
